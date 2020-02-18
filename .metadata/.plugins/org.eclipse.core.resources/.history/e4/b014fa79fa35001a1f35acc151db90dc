@@ -1,0 +1,9 @@
+package p;
+
+class MyThread extends Thread
+{
+	
+}
+public class Thread {
+
+}

@@ -1,0 +1,12 @@
+package com;
+class v
+{
+	
+}
+class MyThread extends v
+{
+	
+}
+public class ThreadRunnableExample {
+
+}
